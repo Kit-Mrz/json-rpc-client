@@ -1,0 +1,18 @@
+{
+    "name": "mrzkit/json-rpc-client",
+    "description": "json rpc client",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mrzkit\\JsonRpcClient\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "shijie.zhu",
+            "email": "562591971@qq.com"
+        }
+    ],
+    "require": {}
+}
